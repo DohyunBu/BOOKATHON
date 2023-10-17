@@ -1,5 +1,5 @@
 # AIxBOOKATHON 대회
-[PDF 발표자료_북흐북흐](제4회_북커톤_팀 북흐북흐.pdf)
+[PDF 발표자료_북흐북흐](제4회_북커톤_팀_북흐북흐.pdf)
 ![발표자료_북흐북흐_페이지](https://github.com/DohyunBu/BOOKATHON/raw/main/발표자료/제4회_북커톤_팀 북흐북흐_페이지_01.jpg)
 ![발표자료_북흐북흐_페이지](https://github.com/DohyunBu/BOOKATHON/raw/main/발표자료/제4회_북커톤_팀 북흐북흐_페이지_02.jpg)
 ![발표자료_북흐북흐_페이지](https://github.com/DohyunBu/BOOKATHON/raw/main/발표자료/제4회_북커톤_팀 북흐북흐_페이지_03.jpg)
